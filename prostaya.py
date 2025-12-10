@@ -1,1 +1,1 @@
-print("hi Vacilii")
+print("hi Vacya")
